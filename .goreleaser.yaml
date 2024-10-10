@@ -48,9 +48,6 @@ source:
   enabled: true
   format: tar.gz
 
-sboms:
-  - artifacts: archive
-
 archives:
   - format: tar.zst
     # this name template makes the OS and Arch compatible with the results of `uname`.
