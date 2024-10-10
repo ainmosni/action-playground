@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Printf("This is a very serious release.")
+	fmt.Println("This is a very serious release.")
 }
